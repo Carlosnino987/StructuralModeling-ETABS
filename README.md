@@ -2,8 +2,7 @@
 
 
 <h2>Description</h2>
-Here you'll find a project what I did in a certification course.
-<br />
+This repository contains a project completed during a certification course. It showcases the use of ETABS for structural modeling, analysis, and design, highlighting the software's core tools and workflows.<br />
 
 
 <h2>Software Used</h2>

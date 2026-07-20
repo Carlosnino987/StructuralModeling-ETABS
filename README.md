@@ -8,7 +8,7 @@ Here you'll find a project what I did in a certification course.
 
 <h2>Software Used</h2>
 
-- <b>PETABS</b> 
+- <b>ETABS</b> 
 
 <h2>Environments Used </h2>
 
